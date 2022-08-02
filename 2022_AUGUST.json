@@ -1,0 +1,163 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -235421812,
+        "longitudeE7": -467016868,
+        "sourceInfo": {
+          "deviceTag": -1248014953
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -235426207,
+        "longitudeE7": -467019275,
+        "sourceInfo": {
+          "deviceTag": -1248014953
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-08-01T18:52:28.012Z",
+        "endTimestamp": "2022-08-01T19:05:59.229Z"
+      },
+      "distance": 750,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 80.9793472290039
+      }, {
+        "activityType": "STILL",
+        "probability": 8.093894273042679
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.561155617237091
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.016133815050125
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2873876839876175
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.7640407420694828
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.18228688277304173
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05044798017479479
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03623487427830696
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.009560759644955397
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006774556095479056
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005092108040116727
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.004541776434052736
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.003088580706389621
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.590821044483164E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -235421581,
+          "lngE7": -467016906
+        }, {
+          "latE7": -235425586,
+          "lngE7": -467024421
+        }, {
+          "latE7": -235439128,
+          "lngE7": -467048263
+        }, {
+          "latE7": -235424728,
+          "lngE7": -467019386
+        }, {
+          "latE7": -235425186,
+          "lngE7": -467018508
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 730.4188568048127,
+        "travelMode": "WALK",
+        "confidence": 0.8357284253627486
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -235439968,
+          "lngE7": -467049179,
+          "accuracyMeters": 28,
+          "timestamp": "2022-08-01T18:59:13.968Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -235425404,
+        "longitudeE7": -467018299,
+        "placeId": "ChIJe9SZK9BXzpQRAyStYTiPZvM",
+        "address": "R. Sebastião Rodrigues, 303 - Vila Madalena, São Paulo - SP, 05451-060, Brasil",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": -1248014953
+        },
+        "locationConfidence": 95.85899,
+        "calibratedProbability": 89.12062
+      },
+      "duration": {
+        "startTimestamp": "2022-08-01T19:05:59.229Z",
+        "endTimestamp": "2022-08-02T16:36:45.463Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -235426043,
+      "centerLngE7": -467019033,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": -235432202,
+        "longitudeE7": -467021686,
+        "placeId": "ChIJ3WRhLM5XzpQRb20jyZGRccs",
+        "address": "R. Sebastião Rodrigues, 215 - Vila Madalena, São Paulo - SP, 05451-060, Brasil",
+        "name": "Empório Borelli",
+        "locationConfidence": 0.21942863,
+        "calibratedProbability": 0.20400397
+      }, {
+        "latitudeE7": -235425441,
+        "longitudeE7": -467020401,
+        "placeId": "ChIJn8Qtt-FXzpQR4XV9wzeOE54",
+        "address": "R. Realengo, 288 - Alto de Pinheiros, São Paulo - SP, 05451-030, Brasil",
+        "name": "Maria Paula Fabrizi Pires",
+        "locationConfidence": 0.19657354,
+        "calibratedProbability": 0.18275547
+      }, {
+        "latitudeE7": -235425586,
+        "longitudeE7": -467015607,
+        "placeId": "ChIJLQ84-mH4zpQR_u2mXEhTIKw",
+        "address": "R. Sebastião Rodrigues, 310 - Vila Madalena, São Paulo - SP, 05451-060, Brasil",
+        "name": "Fornecedora Industrial Ltda",
+        "locationConfidence": 0.1835963,
+        "calibratedProbability": 0.17069046
+      }, {
+        "latitudeE7": -235432400,
+        "longitudeE7": -467016300,
+        "placeId": "ChIJlV2K0c9XzpQRRCXFmwnckNI",
+        "address": "Vila Madalena, São Paulo - SP, 05451-020, Brasil",
+        "name": "R. Caminha Amorim, 438",
+        "locationConfidence": 0.1505001,
+        "calibratedProbability": 0.13992076
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 82,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
